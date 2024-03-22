@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Markdown
+*.md linguist-detectable=true
+*.md linguist-documentation=false
