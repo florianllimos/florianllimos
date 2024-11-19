@@ -51,9 +51,9 @@ Un système de gestion de contenu sur mesure avec WordPress, permettant de filtr
 
 ## 📫 Contact
 
-- Email : florian.llimos@example.com
-- LinkedIn : [linkedin.com/in/florianllimos](https://www.linkedin.com/in/florianllimos)
-- Portfolio : [florianllimos.dev](https://florianllimos.dev)
+- Email : contact@florianllimos.fr
+- LinkedIn : [linkedin.com/in/florian.llimos](https://www.linkedin.com/in/florian.llimos)
+- Portfolio : [florianllimos.fr](https://florianllimos.fr)
 
 ---
 
