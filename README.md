@@ -16,13 +16,14 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné par la 
   - HTML5, CSS3, JavaScript
   - PHP, MySQL
   - SQL
+    
 - **Frameworks et Outils** :
   - WordPress (création de plugins, personnalisation)
   - Leaflet.js (cartographie interactive)
   - Joomla, Yootheme Pro
   - Git et GitHub
-  - Node.js (pour des projets spécifiques)
   - jQuery, AJAX
+    
 - **Autres compétences** :
   - Gestion de bases de données
   - Création de sites e-commerce et showcases
