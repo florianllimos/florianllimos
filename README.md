@@ -40,19 +40,15 @@ Un plugin WordPress personnalisé pour afficher des cartes interactives avec des
 Mon portfolio personnel créé avec Joomla et Yootheme Pro, mettant en avant mes projets récents, avec un design responsive et une animation SVG interactive.
 
 ### 3. [API GoPro Instagram](lien-vers-le-projet)
-Un projet basé sur Joomla, où j'ai développé une API pour afficher la dernière photo Instagram d'un compte GoPro, ainsi que le nombre de likes et de commentaires.
+Un projet basé sur Joomla, où j'ai développé une API pour afficher la dernière photo Instagram d'un compte PRO, ainsi que le nombre de likes et de commentaires.
 
 ### 4. [Système de gestion de données avec WordPress](lien-vers-le-projet)
 Un système de gestion de contenu sur mesure avec WordPress, permettant de filtrer des données dans une carte géographique à l'aide de PHP et SQL.
 
-## 📈 Statistiques GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=florianllimos&show_icons=true&count_private=true&hide=prs&theme=radical)
-
 ## 📫 Contact
 
 - Email : contact@florianllimos.fr
-- LinkedIn : [linkedin.com/in/florian.llimos](https://www.linkedin.com/in/florian.llimos)
+- LinkedIn : [linkedin.com/in/florian-llimos](https://fr.linkedin.com/in/florian-llimos-a27944231)
 - Portfolio : [florianllimos.fr](https://florianllimos.fr)
 
 ---
