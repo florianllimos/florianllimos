@@ -1,16 +1,60 @@
-<h1 align="center">Hey👋, je suis Florian Llimos</h1>
-<h3 align="center">Développeur full-stack</h3>
+# Florian Llimos - Web Developer
 
-<h4  align="center">🔭 Je travaille actuellement chez **Digitanie**</h4>
+Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné par la création de solutions numériques modernes et efficaces. Voici un aperçu de mes compétences, projets et contributions.
 
-<h4  align="center">👨‍💻 Tous mes projets sont visible sur : [https://www.florianllimos.fr]<h4>
+## 🚀 À propos de moi
 
-<h3  align="center">Languages et compétences :</h3>
-<p  align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a><br> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <br><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <br><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <br><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a><br> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><br> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <br><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <br><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a><br> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><br> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><br> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><br> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <br><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <br><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p><br><br><br>
+- **Nom** : Florian Llimos
+- **Âge** : 24 ans
+- **Localisation** : Toulouse, France
+- **Formation** : BTS Développement Web
+- **Objectif** : Créer des expériences web fluides et accessibles à tous, en utilisant les technologies les plus récentes et les meilleures pratiques.
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=llimosf&show_icons=true&locale=en&layout=compact" alt="llimosf" /></p><br><br><br>
+## 💻 Compétences
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=llimosf&show_icons=true&locale=en" alt="llimosf" /></p><br><br><br>
+- **Langages** :
+  - HTML5, CSS3, JavaScript
+  - PHP, MySQL
+  - SQL
+- **Frameworks et Outils** :
+  - WordPress (création de plugins, personnalisation)
+  - Leaflet.js (cartographie interactive)
+  - Joomla, Yootheme Pro
+  - Git et GitHub
+  - Node.js (pour des projets spécifiques)
+  - jQuery, AJAX
+- **Autres compétences** :
+  - Gestion de bases de données
+  - Création de sites e-commerce et showcases
+  - Développement mobile et responsive
+  - Optimisation SEO
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=llimosf&" alt="llimosf" /></p>
+## 📂 Projets
 
+Voici quelques-uns de mes projets récents :
+
+### 1. [Plugin WordPress - Cartographie interactive](lien-vers-le-projet)
+Un plugin WordPress personnalisé pour afficher des cartes interactives avec des filtres avancés, en utilisant Leaflet.js et des bases de données SQL.
+
+### 2. [Site portfolio avec Yootheme Pro](lien-vers-le-projet)
+Mon portfolio personnel créé avec Joomla et Yootheme Pro, mettant en avant mes projets récents, avec un design responsive et une animation SVG interactive.
+
+### 3. [API GoPro Instagram](lien-vers-le-projet)
+Un projet basé sur Joomla, où j'ai développé une API pour afficher la dernière photo Instagram d'un compte GoPro, ainsi que le nombre de likes et de commentaires.
+
+### 4. [Système de gestion de données avec WordPress](lien-vers-le-projet)
+Un système de gestion de contenu sur mesure avec WordPress, permettant de filtrer des données dans une carte géographique à l'aide de PHP et SQL.
+
+## 📈 Statistiques GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=florianllimos&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## 📫 Contact
+
+- Email : florian.llimos@example.com
+- LinkedIn : [linkedin.com/in/florianllimos](https://www.linkedin.com/in/florianllimos)
+- Portfolio : [florianllimos.dev](https://florianllimos.dev)
+
+---
+
+Merci d'avoir visité mon profil ! Si tu as des questions ou si tu veux discuter de projets potentiels, n'hésite pas à me contacter.
