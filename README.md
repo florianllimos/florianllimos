@@ -30,28 +30,10 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné par la 
   - Développement mobile et responsive
   - Optimisation SEO
 
-## 📂 Projets
-
-Voici quelques-uns de mes projets récents :
-
-### 1. [Plugin WordPress - Cartographie interactive](lien-vers-le-projet)
-Un plugin WordPress personnalisé pour afficher des cartes interactives avec des filtres avancés, en utilisant Leaflet.js et des bases de données SQL.
-
-### 2. [Site portfolio avec Yootheme Pro](lien-vers-le-projet)
-Mon portfolio personnel créé avec Joomla et Yootheme Pro, mettant en avant mes projets récents, avec un design responsive et une animation SVG interactive.
-
-### 3. [API GoPro Instagram](lien-vers-le-projet)
-Un projet basé sur Joomla, où j'ai développé une API pour afficher la dernière photo Instagram d'un compte PRO, ainsi que le nombre de likes et de commentaires.
-
-### 4. [Système de gestion de données avec WordPress](lien-vers-le-projet)
-Un système de gestion de contenu sur mesure avec WordPress, permettant de filtrer des données dans une carte géographique à l'aide de PHP et SQL.
-
 ## 📫 Contact
 
 - Email : contact@florianllimos.fr
 - LinkedIn : [linkedin.com/in/florian-llimos](https://fr.linkedin.com/in/florian-llimos-a27944231)
 - Portfolio : [florianllimos.fr](https://florianllimos.fr)
-
----
 
 Merci d'avoir visité mon profil ! Si tu as des questions ou si tu veux discuter de projets potentiels, n'hésite pas à me contacter.
