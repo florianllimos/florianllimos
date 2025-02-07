@@ -5,7 +5,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné par la 
 ## 🚀 À propos de moi
 
 - **Nom** : Florian Llimos
-- **Âge** : 24 ans
+- **Âge** : 25 ans
 - **Localisation** : Toulouse, France
 - **Formation** : BTS Développement Web
 - **Objectif** : Créer des expériences web fluides et accessibles à tous, en utilisant les technologies les plus récentes et les meilleures pratiques.
@@ -14,11 +14,12 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné par la 
 
 - **Langages** :
   - HTML5, CSS3, JavaScript
-  - PHP, MySQL
+  - PHP, MySQL, Python, Bash
   - SQL
     
 - **Frameworks et Outils** :
   - WordPress (création de plugins, personnalisation)
+  - Joomla (création de plugins, personnalisation)
   - Leaflet.js (cartographie interactive)
   - Joomla, Yootheme Pro
   - Git et GitHub
@@ -29,6 +30,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné par la 
   - Création de sites e-commerce et showcases
   - Développement mobile et responsive
   - Optimisation SEO
+  - Création de plugins Joomla / WordPress
 
 ## 📫 Contact
 
